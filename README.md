@@ -39,7 +39,7 @@
 
 ### Clone o projeto
 ```sh
-git clone https://github.com/Mathprestes/PROVA_SISFRETE.git ecommerce-api
+git clone https://github.com/Mathprestes/PROVA.git ecommerce-api
 ```
 ```sh
 cd ecommerce-api/
