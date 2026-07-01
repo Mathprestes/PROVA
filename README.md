@@ -14,7 +14,7 @@
 
 ## 📁 Descrição do Projeto
 
-### Nesta pasta PROVA SISFRETE está contido o projeto desenvolvido em Laravel com uma API RESTful chamada ecommerce-api, conforme os requisitos da prova.
+### Nesta pasta PROVA está contido o projeto desenvolvido em Laravel com uma API RESTful chamada ecommerce-api, conforme os requisitos da prova.
 
 <br>
 
